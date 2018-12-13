@@ -15,7 +15,7 @@
 			object 
 				function (special callable object)
 			symbol (ES6)
-			`);
+		`);
 
 		it('As Javascript is dynamically typed language, it has type of a VALUE that the variable is currently holding');
 
