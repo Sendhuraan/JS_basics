@@ -1,3 +1,5 @@
+/* eslint no-redeclare: 'off' */
+
 exports.quiz = (function() {
 
 	var baz = 2;
@@ -25,7 +27,7 @@ exports.quiz = (function() {
 		output5: output5,
 		output6: output6,
 		output7: output7
-	}
+	};
 	
 })();
 
